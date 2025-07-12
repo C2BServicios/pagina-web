@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom right, blue, red);
+  color: white;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+nav {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  margin: 10px 0;
+}
